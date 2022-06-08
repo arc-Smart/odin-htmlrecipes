@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+  <h1>Sous Vude Flan</h1>
+  <img src="https://images.pexels.com/photos/12322407/pexels-photo-12322407.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="pictureofSousVideFlan">
+  <h3>Get easy recipes for creamy chocolate pudding, flan, mousse, and banana and rice puddings. Even beginner cooks can master these easy-to-make recipes.</h3>
+  <p>With a sous vide, you can cook flan in individual jars for a simple, custardy dessert that's perfect for company and so easy to clean up.</p>
+  <h3>Ingredients</h3>
+    <ul>
+      <li>¾ cup white sugar</li>
+      <li>8 4-ounce Mason® jars with lids and rings</li>
+      <li>1 (14 ounce) can sweetened condensed milk</li>
+      <li>1 (12 fluid ounce) can evaporated milk</li>
+      <li>3 eggs</li>
+      <li>1 tablespoon vanilla extract</li>
+    </ul>  
+  <h3>Steps</h3>
+    <ol>
+      <li>Place a sous vide cooker inside a large heat-proof container filled with water. Preheat the water bath to 179 degrees F (82 degrees C).</li>
+      <li>Melt sugar in a small saucepan over medium heat until browned, about 5 minutes. Pour hot melted sugar into eight 4 ounce Mason jars, enough to cover the bottom of each.</li>
+      <li>Mix sweetened condensed milk, evaporated milk, eggs, and vanilla extract together in a separate bowl. Add to the jars; seal.</li>
+      <li>Place jars in the water bath and set timer for 1 hour.</li>
+      <li>Remove jars from the water bath. Let flan cool until safe to handle, about 20 minutes.</li>
+      <li>Unseal jars and run a small rubber spatula around the sides of the flan. Top each flan with a plate; invert and gently shake to release.</li>
+    </ol>
+</body>
+</html>
